@@ -1,6 +1,14 @@
 # nm-human-date-range
 A Node Module for formatting date ranges as a human might write them.
 
+# Technologies/Languages
+
+* [NodeJS](https://nodejs.org/)
+* [ES2015/ES6](http://es6-features.org/) 
+* [Babel](http://babeljs.io/)
+* [Rollup](https://rollupjs.org/)
+* [Jest](https://facebook.github.io/jest/)
+
 # Usage
 
 Use either `require` or `import`.
