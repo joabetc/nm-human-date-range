@@ -23,4 +23,4 @@ var hDateRange = humanDateRange({
       });
 ````
 
-Or if you prefer you can play around with RunKit: https://runkit.com/joabetc/node-module-nm-human-date-range-sample
+Or if you prefer you can play around with [RunKit](https://runkit.com/joabetc/node-module-nm-human-date-range-sample) or even play bit with it on [StackBlitz](https://stackblitz.com/edit/nm-human-date-range?embed=1&file=index.js)
