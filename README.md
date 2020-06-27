@@ -1,4 +1,4 @@
-# nm-human-date-range
+# nm-human-date-range <img src="https://img.shields.io/badge/Project%20Type-Node%20Module-brightgreen.svg" /> <img src="https://img.shields.io/badge/Project%20Stage-Development-yellowgreen.svg" />
 A Node Module for formatting date ranges as a human might write them.
 
 # Technologies/Languages
